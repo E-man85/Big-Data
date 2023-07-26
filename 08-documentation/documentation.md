@@ -1,11 +1,26 @@
 # Big Data Repository
 
-
-![IBM Four Vs of Big Data](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/IBM-Four-Vs-of-Big-Data.png)
+<img src="https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/IBM-Four-Vs-of-Big-Data.png" width="800" height="500">
 
 Image taken from [https://www.researchgate.net/](https://www.researchgate.net/figure/IBM-Four-Vs-of-Big-Data_fig1_320799079)
 
 ## 02-study
+
+[03ShakespeareRddIntro_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/03ShakespeareRddIntro_en.ipynb)
+
+### Structure
+
+- Environment installation and configuration Spark
+- What is an RDD?
+- The word count program
+
+[04AirbnbSparksql_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/04AirbnbSparksql_en.ipynb)
+
+### Structure
+
+- Environment installation and configuration Spark
+- Spark SQL operations
+- RDD operations
 
 [05HousingPredict_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/05HousingPredict_en.ipynb)
 
