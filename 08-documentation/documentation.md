@@ -6,6 +6,21 @@ Image taken from [https://www.researchgate.net/](https://www.researchgate.net/fi
 
 ## 02-study
 
+[01PiExercise_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/01PiExercise_en.ipynb)
+
+### Structure
+
+- Environment installation and configuration Spark
+- Perform distributed computations and estimate the value of pi using the Monte Carlo method
+
+[02LazyRdds_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/02LazyRdds_en.ipynb)
+
+### Structure
+
+- Environment installation and configuration Spark
+- Spark efficiency
+- Transformations and Actions
+
 [03ShakespeareRddIntro_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/03ShakespeareRddIntro_en.ipynb)
 
 ### Structure
