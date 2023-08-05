@@ -6,7 +6,7 @@ Image taken from [https://www.researchgate.net/](https://www.researchgate.net/fi
 
 ## 02-study
 
-[00BigDataFundamentals.md]()
+[00BigDataFundamentals.md](https://github.com/E-man85/Big-Data/blob/main/02-study/00BigDataFundamentals.md)
 
 ### Structure
 
@@ -99,6 +99,10 @@ Images used in the repository:
 [StorageProcessingArchitectureParallel](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/StorageProcessingArchitectureParallel.png)
 
 [04-images/ApacheSparkMapReduceCompared.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/ApacheSparkMapReduceCompared.png)
+
+## 06- Databricks 
+
+### Structure
 
 
 ## 07-Projects

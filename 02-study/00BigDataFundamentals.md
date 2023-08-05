@@ -298,7 +298,7 @@ Copies of data blocks are created for back up purposes Write once read many oper
 
 **Hadoop MapReduce**: This is the programming model for processing large datasets. It divides processing tasks into small chunks of work, which can be run or rerun on any node in the cluster.
 
-***How mao reduce works***
+***How Map-Reduce works***
 
 <img src="https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/MapReduceWorks.png" width="800" height="400">
 
@@ -393,7 +393,7 @@ Graphs consist of:
 
 Graphs can either be directed or undirected
 
-**Directed graphs ** Contain edges with a single direction between two vertices
+**Directed graphs** Contain edges with a single direction between two vertices
 
 Examples: manufacturing optimization, project scheduling, train and airline route analysis, traffic recommendations and others
 
