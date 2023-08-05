@@ -6,6 +6,27 @@ Image taken from [https://www.researchgate.net/](https://www.researchgate.net/fi
 
 ## 02-study
 
+[00BigDataFundamentals.md]()
+
+### Structure
+
+- Small Data VS Big Data
+- The fours V's of Big Data
+- Big Data Life Cycle
+- Impact of Big Data on People
+- Big Data Tools
+- Open source and Big Data
+- Big Data Use Cases
+- Parallet Processing Scaling and Data Parallelism
+- Key Concepts in Big Data
+- Deep Learning with Big Data
+- Hadoop is an open source framework for big data
+- Apache Spark
+- Spark Structured Streaming
+- GraphFrames on Apache Spark
+- ETL Workloads on Apache Spark
+- Spark ML Funfamentals
+
 [01PiExercise_en.ipynb](https://github.com/E-man85/Big-Data/blob/main/02-study/01PiExercise_en.ipynb)
 
 ### Structure
@@ -60,6 +81,25 @@ Images used in the repository:
 [IBM-Four-Vs-of-Big-Data.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/IBM-Four-Vs-of-Big-Data.png)
 
 [rdd_creation](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/rdd_creation.png)
+
+[BigDataLifeCycle.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/BigDataLifeCycle.png)
+
+[ConvolutionalNeuralNetworks.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/ConvolutionalNeuralNetworks.png)
+
+[DeepLearning.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/DeepLearning.png)
+
+[FeedForwardNeuralNetwork.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/FeedForwardNeuralNetwork.png)
+
+[LinearParallelProcessing.jpg](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/LinearParallelProcessing.jpg)
+
+[MapReduceWorks](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/MapReduceWorks.png)
+
+[RecurrentNeuralNetworks.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/RecurrentNeuralNetworks.png)
+
+[StorageProcessingArchitectureParallel](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/StorageProcessingArchitectureParallel.png)
+
+[04-images/ApacheSparkMapReduceCompared.png](https://raw.githubusercontent.com/E-man85/Big-Data/main/04-images/ApacheSparkMapReduceCompared.png)
+
 
 ## 07-Projects
 
